@@ -11,3 +11,6 @@ swagger-ui.sublime-workspace
 .project
 node_modules/*
 /nbproject/private/
+dist
+node_modules
+secret.json
